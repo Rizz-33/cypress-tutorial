@@ -1,1 +1,12 @@
 # cypress-tutorial
+- installation
+- Register automation
+- assertion
+- dropdown
+- dynamic dropdown
+- radio buttons
+- checkbox
+- clear
+- scroll
+- upload
+- mouseover
